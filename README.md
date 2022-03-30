@@ -1,1 +1,2 @@
-here am i. read me 
+#!/bin/bash
+here am i. read me\n 
